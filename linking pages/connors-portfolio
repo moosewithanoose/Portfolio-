@@ -1,0 +1,31 @@
+
+       <html> 
+        <body>
+           <head>
+       <!--- this is how I link my pages to the stylesheet -->        
+	   <link rel = "stylesheet" type = "text/css" href = "style.css">
+    <title> homepage </title>
+         </div>
+        
+     <!-- This is me buttons --> 
+       <ul> 
+	   <li><a href = "Page1.html">about me</a></li>   
+        <li><a href = "Page2.html">achievements</a></li>
+        <li><a href = "Page3.html">Skills</a></li>   
+        <li><a href = "Page4.html">Other media</a></li> 		
+	   
+	   <!-- Div tag for paragraph -->
+	   <div class="p">
+	   <p align = "left" class ="paragraph" > This is my portfolio for computing this year This is my second year of computing and my first attempt at a professional <br> website but I have a bit of experience click on The photo of Po and I for my blog.</p>
+	   </div>
+
+         
+		 
+         <!-- Image to the RIGHT hand side -->
+<div class="right-side"> 
+         <a href="http://myfreyberg.com/connorturner/"><img src="16473465_414790998863780_6044857967716996195_n.jpg" height="500" width="420">
+  </div>
+        </head>    
+    </body>
+      </html>
+      

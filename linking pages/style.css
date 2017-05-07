@@ -1,0 +1,63 @@
+
+	
+
+/* the stylesheet to make my website look better */ 
+
+
+	/* background-image to make my website pop */
+body {
+    background-image: url("background.jpg"); 
+    background-repeat: no repeat; 
+}
+
+ul{ list-style-type:none; 
+margin: 1%; 
+padding: 0; 
+width: 100%; 
+}
+
+li {
+display: inline;
+} 
+
+li a{ 
+color:#fff; 
+text-decoration:none; 
+text-align:center;
+font-size: 30px;
+background-color:#C6002B; 
+float: left; 
+width: 25%;
+padding-bottom:1%;
+padding-top:1%;
+} 
+
+li a:hover {
+background-color
+}
+
+.h1 {
+       
+        font-size: 50px;
+	    color:#C6002B;
+		position: center;
+    
+         
+}
+p{ 
+        color:#fff; 
+        position:absolute; bottom:300px;
+		}	
+
+.right-side { 
+   position: absolute;
+    top:150px; 
+	right:100px;
+ }
+
+ 
+
+
+
+  
+  
